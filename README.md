@@ -1,4 +1,4 @@
-# color-picker-html
+# color-picker-html5
 Color picker for web developers/designers.
 
 Use this site to pick color for HTML/CSS. :-)
