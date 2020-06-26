@@ -8,3 +8,7 @@ Use the color picker by clicking and dragging your cursor inside the picker area
 https://htmlcolorcodes.com/color-picker/
 
 
+## Color palettes for designers and artists
+
+https://colorhunt.co/
+
